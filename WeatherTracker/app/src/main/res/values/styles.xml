@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="newCustomButton" >
+        <item name="android:textSize">14sp</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:backgroundTint">@color/skyBlue</item>
+        <item name="android:textColor">@color/yellow</item>
+    </style>
+</resources>

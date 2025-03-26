@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="weatherPredictionMarginTop">15dp</dimen>
+    <dimen name="weatherPredictionTextSize">35sp</dimen>
+    <dimen name="enterNameMarginTop">50dp</dimen>
+    <dimen name="enterNameMarginStart">60dp</dimen>
+    <dimen name="enterNameMarginEnd">60dp</dimen>
+    <dimen name="enterNameTextSize">25dp</dimen>
+    <dimen name="enterNameSpaceMarginEnd">60dp</dimen>
+    <dimen name="enterNameSpaceMarginStart">60dp</dimen>
+    <dimen name="predictButtonMargin">60dp</dimen>
+    <dimen name="historyPredictionMarginTop">50dp</dimen>
+    <dimen name="historyPredictionTestSize">30sp</dimen>
+    <dimen name="historyPredictionSpaceMarginTop">10dp</dimen>
+    <dimen name="historyPredictionSpaceTextSize">20sp</dimen>
+    <dimen name="latestPredictionMarginTop">70dp</dimen>
+    <dimen name="latestPredictionTextSize">35sp</dimen>
+    <dimen name="iPredictMarginTop">70dp</dimen>
+    <dimen name="iPredictTextSize">30sp</dimen>
+    <dimen name="predictionSpaceMarginTop">30dp</dimen>
+    <dimen name="predictionSpaceTextSize">20sp</dimen>
+    <dimen name="weatherImageResultsLayoutWidth">100dp</dimen>
+    <dimen name="weatherImageResultsLayoutHeight">100dp</dimen>
+    <dimen name="weatherImageResultsMarginTop">50dp</dimen>
+    <dimen name="finishButtonMargin">50dp</dimen>
+    <dimen name="cityNameTextSize">20sp</dimen>
+    <dimen name="viewHolderTextViewSize">15sp</dimen>
+    <dimen name="temptTextViewSize">35sp</dimen>
+    <dimen name="lastUpdateMarginTop">30dp</dimen>
+    <dimen name="windSpeedMarginTop">65dp</dimen>
+    <dimen name="windDirectionMarginTop">85dp</dimen>
+    <dimen name="weatherTempMarginStart">310dp</dimen>
+
+
+
+</resources>
