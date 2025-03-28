@@ -40,12 +40,8 @@ git clone https://github.com/VincentAgra/WeatherTracker-android-app.git
 <h2>Usage</h2>
 <p>After installing the app on your device:</p>
 <ol>
-  <li>Grant location permissions when prompted for local weather</li>
   <li>Use the search bar to find weather for any location</li>
-  <li>Save favorite locations by tapping the star icon</li>
   <li>Swipe down to refresh weather data</li>
-  <li>Tap on a day in the forecast to see detailed hourly information</li>
-  <li>Access settings via the gear icon to customize units and notification preferences</li>
 </ol>
 
 <h2>Technologies Used</h2>
